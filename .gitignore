@@ -1,0 +1,6 @@
+//ignore files in this path
+
+client/node_modules
+node_modules
+
+
